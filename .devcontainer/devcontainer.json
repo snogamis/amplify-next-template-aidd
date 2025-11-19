@@ -1,0 +1,5 @@
+{
+  "name": "Minimal Dev Container",
+  // "image": "mcr.microsoft.com/devcontainers/base:ubuntu"
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:22"
+}
